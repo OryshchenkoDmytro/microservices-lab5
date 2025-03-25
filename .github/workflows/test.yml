@@ -34,6 +34,6 @@ jobs:
           sonar-scanner \
             -Dsonar.projectKey=microservices-demo \
             -Dsonar.sources=. \
-            -Dsonar.host.url=http://your-sonarqube-url \
+            -Dsonar.host.url=http://http://localhost:9000 \
             -Dsonar.login=$SONAR_TOKEN
 
