@@ -1,0 +1,6 @@
+projectKey=microservices-demo
+serverUrl=http://localhost:9000
+serverVersion=25.3.0.104237
+dashboardUrl=http://localhost:9000/dashboard?id=microservices-demo
+ceTaskId=0b92521c-48c2-4446-aa53-42bc06c746c2
+ceTaskUrl=http://localhost:9000/api/ce/task?id=0b92521c-48c2-4446-aa53-42bc06c746c2
